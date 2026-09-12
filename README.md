@@ -15,7 +15,7 @@
   </a>
 </p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;React.js+Developer;JavaScript+%7C+TypeScript+Developer;Python+Developer;Building+Modern+Web+Applications" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;React.js+Developer;Node.js+%7C+Express.js+Developer;JavaScript+%7C+TypeScript+Developer;Python+Developer;Building+Modern+Web+Applications" alt="Typing SVG"/>
 
 </div>
 
@@ -23,16 +23,19 @@
 
 ## 👨‍💻 About Me
 
-I'm **Dinesh Kumar**, a software developer passionate about building modern, responsive, and user-focused web applications.
+I'm **Dinesh Kumar**, an MCA graduate and software developer passionate about building modern, responsive, and user-focused web applications.
 
-🎓 MCA Graduate  
-💻 Full Stack & Frontend Development  
-⚛️ React.js | JavaScript | TypeScript  
-🐍 Python Development  
-🚀 Interested in building scalable and practical software solutions  
-📚 Continuously learning and improving my development skills
+- 🎓 MCA Graduate
+- 💻 Full Stack Web Development
+- ⚛️ React.js & Vite
+- 🟨 JavaScript & TypeScript
+- 🟢 Node.js & Express.js
+- 🍃 MongoDB
+- 🐍 Python
+- 🚀 Interested in building scalable and practical software solutions
+- 📚 Continuously learning modern web technologies
 
-I enjoy turning ideas into functional applications and working across both frontend and backend technologies.
+I enjoy transforming ideas into functional applications and working across both frontend and backend technologies.
 
 ---
 
@@ -41,19 +44,31 @@ I enjoy turning ideas into functional applications and working across both front
 ### 💻 Programming Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,javascript,typescript" />
+  <img src="https://skillicons.dev/icons?i=python,javascript,typescript" alt="Programming Languages"/>
 </p>
 
-### 🌐 Frontend Development
+### 🎨 Frontend Development
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,react,vite" />
+  <img src="https://skillicons.dev/icons?i=html,css,react,vite" alt="Frontend Technologies"/>
 </p>
 
-### ⚙️ Development Tools
+### ⚙️ Backend Development
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express" alt="Backend Technologies"/>
+</p>
+
+### 🗄️ Database
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb" alt="Database"/>
+</p>
+
+### 🔧 Tools & Platforms
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,npm" alt="Development Tools"/>
 </p>
 
 ---
@@ -70,7 +85,7 @@ A simple and responsive text-to-speech web application built using JavaScript.
 
 ### 🌐 3D Portfolio
 
-A modern 3D portfolio website built using React and Vite with an interactive user experience.
+A modern 3D portfolio website built with React and Vite, featuring an interactive user experience.
 
 🔗 [View Repository](https://github.com/Dineshkumar9228/reactjs18-3d-portfolio-)
 
@@ -86,7 +101,7 @@ An attendance management application designed to simplify digital attendance tra
 
 ### 🤖 Taskflow AI
 
-An AI-focused task management project exploring intelligent productivity workflows.
+A task management project focused on productivity and modern application workflows.
 
 🔗 [View Repository](https://github.com/Dineshkumar9228/Taskflow-ai)
 
@@ -100,16 +115,64 @@ A project focused on software testing and automation concepts.
 
 ---
 
-## 💼 Experience
+### 📚 LearnGit
 
-**Full Stack Developer Intern — Pobo Technologies**  
-Dec 2025 – Mar 2026
+A project created to explore and practice Git and GitHub concepts.
 
-**Frontend Developer Intern — Greensoft Group Technologies**  
-May 2025 – Jun 2025
+🔗 [View Repository](https://github.com/Dineshkumar9228/learngit)
 
-**Python Intern — Wavtech Solutions**  
-May 2024 – Jun 2024
+---
+
+## 💼 What I Work With
+
+```text
+Frontend
+├── HTML5
+├── CSS3
+├── JavaScript
+├── TypeScript
+├── React.js
+└── Vite
+
+Backend
+├── Node.js
+├── Express.js
+└── REST APIs
+
+Database
+└── MongoDB
+
+Programming
+└── Python
+
+Tools
+├── Git
+├── GitHub
+├── VS Code
+└── npm
+```
+
+---
+
+## 🌱 Currently Learning
+
+- Advanced React.js
+- TypeScript
+- Node.js & Express.js
+- REST API Development
+- MongoDB
+- Full Stack Web Development
+- Modern Software Development Practices
+
+---
+
+## 🎯 Career Goals
+
+I'm looking for opportunities where I can contribute as a:
+
+**Software Engineer • Full Stack Developer • Frontend Developer • React.js Developer • Node.js Developer • Python Developer**
+
+I'm interested in working on real-world products, solving challenging problems, writing clean and maintainable code, and continuously growing as a software engineer.
 
 ---
 
@@ -117,9 +180,9 @@ May 2024 – Jun 2024
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Dineshkumar9228&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Dineshkumar9228&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180" alt="GitHub Statistics"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dineshkumar9228&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dineshkumar9228&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="Top Languages"/>
 
 </div>
 
@@ -145,7 +208,7 @@ May 2024 – Jun 2024
 
 ---
 
-## 📈 Contribution Graph
+## 📈 Contribution Activity
 
 <div align="center">
 
@@ -155,36 +218,16 @@ May 2024 – Jun 2024
 
 ---
 
-## 🌱 Currently Learning
-
-- Advanced React.js
-- Full Stack Web Development
-- TypeScript
-- Backend Development
-- Modern Software Development Practices
-
----
-
-## 🎯 Career Goals
-
-I'm looking for opportunities where I can contribute as a:
-
-**Software Engineer • Full Stack Developer • Frontend Developer • React.js Developer • Python Developer**
-
-I'm interested in working on real-world products, solving challenging problems, and growing as a software engineer.
-
----
-
-## 🤝 Connect With Me
+## 🤝 Let's Connect
 
 <div align="center">
 
 <a href="https://www.linkedin.com/in/dineshkumar9228/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
 </a>
 
 <a href="https://github.com/Dineshkumar9228">
-  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github"/>
+  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github" alt="GitHub"/>
 </a>
 
 </div>
@@ -195,7 +238,7 @@ I'm interested in working on real-world products, solving challenging problems, 
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=Dineshkumar9228&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=Dineshkumar9228&label=Profile%20Views&style=for-the-badge" alt="Profile Views"/>
 
 </div>
 
