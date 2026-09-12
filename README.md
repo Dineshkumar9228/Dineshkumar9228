@@ -33,7 +33,7 @@ I'm **Dinesh Kumar**, an MCA graduate and software developer passionate about bu
 - 🐍 Python
 - 🔧 Git & GitHub
 - 🚀 Interested in building scalable and practical software solutions
-- 📚 Continuously learning and improving my development skills
+- 📚 Continuously learning modern web technologies
 
 I enjoy transforming ideas into functional applications and working across both frontend and backend technologies.
 
@@ -44,25 +44,25 @@ I enjoy transforming ideas into functional applications and working across both 
 ### 💻 Programming Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,javascript,typescript" alt="Programming Languages"/>
+  <img src="https://skillicons.dev/icons?i=python,javascript,typescript" alt="Python JavaScript TypeScript"/>
 </p>
 
 ### 🎨 Frontend Development
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,react,vite" alt="Frontend Technologies"/>
+  <img src="https://skillicons.dev/icons?i=html,css,react,vite" alt="HTML CSS React Vite"/>
 </p>
 
 ### ⚙️ Backend Development
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express" alt="Backend Technologies"/>
+  <img src="https://skillicons.dev/icons?i=nodejs,express" alt="Node.js Express.js"/>
 </p>
 
 ### 🗄️ Databases
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql" alt="Database Technologies"/>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql" alt="MongoDB MySQL"/>
 </p>
 
 <p align="center">
@@ -72,7 +72,7 @@ I enjoy transforming ideas into functional applications and working across both 
 ### 🔧 Tools & Platforms
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,npm" alt="Development Tools"/>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,npm" alt="Git GitHub VS Code npm"/>
 </p>
 
 ---
@@ -83,7 +83,7 @@ I enjoy transforming ideas into functional applications and working across both 
 
 A simple and responsive text-to-speech web application built using JavaScript.
 
-**Tech:** JavaScript • HTML • CSS
+**Technologies:** JavaScript • HTML • CSS
 
 🔗 [View Repository](https://github.com/Dineshkumar9228/Text-to-Voice)
 
@@ -93,7 +93,7 @@ A simple and responsive text-to-speech web application built using JavaScript.
 
 A modern 3D portfolio website built with React and Vite, featuring an interactive user experience.
 
-**Tech:** React.js • TypeScript • Vite
+**Technologies:** React.js • TypeScript • Vite
 
 🔗 [View Repository](https://github.com/Dineshkumar9228/reactjs18-3d-portfolio-)
 
@@ -103,7 +103,7 @@ A modern 3D portfolio website built with React and Vite, featuring an interactiv
 
 An attendance management application designed to simplify digital attendance tracking.
 
-**Tech:** TypeScript • React.js
+**Technologies:** TypeScript • React.js
 
 🔗 [View Repository](https://github.com/Dineshkumar9228/e-attendance-system)
 
@@ -113,7 +113,7 @@ An attendance management application designed to simplify digital attendance tra
 
 A modern task management project focused on productivity and application workflows.
 
-**Tech:** JavaScript • Web Development
+**Technologies:** JavaScript • Web Development
 
 🔗 [View Repository](https://github.com/Dineshkumar9228/Taskflow-ai)
 
@@ -123,7 +123,7 @@ A modern task management project focused on productivity and application workflo
 
 A project focused on software testing and automation concepts.
 
-**Tech:** Automation Testing
+**Technologies:** Automation Testing
 
 🔗 [View Repository](https://github.com/Dineshkumar9228/automation-testing-project)
 
@@ -133,7 +133,7 @@ A project focused on software testing and automation concepts.
 
 A project created to explore and practice Git and GitHub concepts.
 
-**Tech:** Git • GitHub
+**Technologies:** Git • GitHub
 
 🔗 [View Repository](https://github.com/Dineshkumar9228/learngit)
 
@@ -196,39 +196,33 @@ I'm interested in working on real-world products, solving challenging problems, 
 
 ---
 
-## 📊 GitHub Statistics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Dineshkumar9228&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180" alt="GitHub Statistics"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dineshkumar9228&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="Top Languages"/>
-
-</div>
-
----
-
-## 🔥 GitHub Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=Dineshkumar9228&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-
-</div>
-
----
-
-## 📌 My Development Focus
-
-<div align="center">
+## 📌 Development Focus
 
 | Area | Technologies |
 |------|--------------|
-| Frontend | React.js, JavaScript, TypeScript, HTML, CSS |
-| Backend | Node.js, Express.js, REST APIs |
-| Database | MongoDB, SQL, MySQL |
-| Programming | Python, JavaScript, TypeScript |
-| Tools | Git, GitHub, VS Code, npm |
+| 🎨 Frontend | React.js, JavaScript, TypeScript, HTML, CSS, Vite |
+| ⚙️ Backend | Node.js, Express.js, REST APIs |
+| 🗄️ Database | MongoDB, SQL, MySQL |
+| 🐍 Programming | Python, JavaScript, TypeScript |
+| 🔧 Tools | Git, GitHub, VS Code, npm |
+
+---
+
+## 📊 GitHub Profile
+
+<div align="center">
+
+<a href="https://github.com/Dineshkumar9228">
+  <img src="https://img.shields.io/badge/GitHub-Visit%20My%20Profile-181717?style=for-the-badge&logo=github" alt="GitHub Profile"/>
+</a>
+
+<a href="https://github.com/Dineshkumar9228?tab=repositories">
+  <img src="https://img.shields.io/badge/Repositories-Explore-181717?style=for-the-badge&logo=github" alt="Repositories"/>
+</a>
+
+<a href="https://github.com/Dineshkumar9228?tab=stars">
+  <img src="https://img.shields.io/badge/Stars-Explore-181717?style=for-the-badge&logo=github" alt="Stars"/>
+</a>
 
 </div>
 
