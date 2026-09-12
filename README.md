@@ -1,5 +1,3 @@
-<!-- PROFILE HEADER -->
-
 <div align="center">
 
 # 👋 Hi, I'm Dinesh Kumar
@@ -15,7 +13,7 @@
   </a>
 </p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;React.js+Developer;Node.js+%7C+Express.js+Developer;JavaScript+%7C+TypeScript+Developer;Python+Developer;Building+Modern+Web+Applications" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;React.js+Developer;Node.js+%7C+Express.js+Developer;JavaScript+%7C+TypeScript+Developer;Python+Developer;Building+Modern+Web+Applications" alt="Typing Animation"/>
 
 </div>
 
@@ -31,9 +29,11 @@ I'm **Dinesh Kumar**, an MCA graduate and software developer passionate about bu
 - 🟨 JavaScript & TypeScript
 - 🟢 Node.js & Express.js
 - 🍃 MongoDB
+- 🗄️ SQL & MySQL
 - 🐍 Python
+- 🔧 Git & GitHub
 - 🚀 Interested in building scalable and practical software solutions
-- 📚 Continuously learning modern web technologies
+- 📚 Continuously learning and improving my development skills
 
 I enjoy transforming ideas into functional applications and working across both frontend and backend technologies.
 
@@ -59,10 +59,14 @@ I enjoy transforming ideas into functional applications and working across both 
   <img src="https://skillicons.dev/icons?i=nodejs,express" alt="Backend Technologies"/>
 </p>
 
-### 🗄️ Database
+### 🗄️ Databases
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mongodb" alt="Database"/>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql" alt="Database Technologies"/>
+</p>
+
+<p align="center">
+  <strong>SQL</strong> • <strong>MySQL</strong> • <strong>MongoDB</strong>
 </p>
 
 ### 🔧 Tools & Platforms
@@ -79,6 +83,8 @@ I enjoy transforming ideas into functional applications and working across both 
 
 A simple and responsive text-to-speech web application built using JavaScript.
 
+**Tech:** JavaScript • HTML • CSS
+
 🔗 [View Repository](https://github.com/Dineshkumar9228/Text-to-Voice)
 
 ---
@@ -86,6 +92,8 @@ A simple and responsive text-to-speech web application built using JavaScript.
 ### 🌐 3D Portfolio
 
 A modern 3D portfolio website built with React and Vite, featuring an interactive user experience.
+
+**Tech:** React.js • TypeScript • Vite
 
 🔗 [View Repository](https://github.com/Dineshkumar9228/reactjs18-3d-portfolio-)
 
@@ -95,13 +103,17 @@ A modern 3D portfolio website built with React and Vite, featuring an interactiv
 
 An attendance management application designed to simplify digital attendance tracking.
 
+**Tech:** TypeScript • React.js
+
 🔗 [View Repository](https://github.com/Dineshkumar9228/e-attendance-system)
 
 ---
 
 ### 🤖 Taskflow AI
 
-A task management project focused on productivity and modern application workflows.
+A modern task management project focused on productivity and application workflows.
+
+**Tech:** JavaScript • Web Development
 
 🔗 [View Repository](https://github.com/Dineshkumar9228/Taskflow-ai)
 
@@ -111,6 +123,8 @@ A task management project focused on productivity and modern application workflo
 
 A project focused on software testing and automation concepts.
 
+**Tech:** Automation Testing
+
 🔗 [View Repository](https://github.com/Dineshkumar9228/automation-testing-project)
 
 ---
@@ -119,11 +133,13 @@ A project focused on software testing and automation concepts.
 
 A project created to explore and practice Git and GitHub concepts.
 
+**Tech:** Git • GitHub
+
 🔗 [View Repository](https://github.com/Dineshkumar9228/learngit)
 
 ---
 
-## 💼 What I Work With
+## 💼 Development Skills
 
 ```text
 Frontend
@@ -139,8 +155,10 @@ Backend
 ├── Express.js
 └── REST APIs
 
-Database
-└── MongoDB
+Databases
+├── MongoDB
+├── SQL
+└── MySQL
 
 Programming
 └── Python
@@ -158,9 +176,11 @@ Tools
 
 - Advanced React.js
 - TypeScript
-- Node.js & Express.js
+- Node.js
+- Express.js
 - REST API Development
 - MongoDB
+- SQL & MySQL
 - Full Stack Web Development
 - Modern Software Development Practices
 
@@ -198,21 +218,17 @@ I'm interested in working on real-world products, solving challenging problems, 
 
 ---
 
-## 🏆 GitHub Achievements
+## 📌 My Development Focus
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Dineshkumar9228&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10" alt="GitHub Trophies"/>
-
-</div>
-
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Dineshkumar9228&theme=tokyo-night&hide_border=true" alt="Contribution Graph"/>
+| Area | Technologies |
+|------|--------------|
+| Frontend | React.js, JavaScript, TypeScript, HTML, CSS |
+| Backend | Node.js, Express.js, REST APIs |
+| Database | MongoDB, SQL, MySQL |
+| Programming | Python, JavaScript, TypeScript |
+| Tools | Git, GitHub, VS Code, npm |
 
 </div>
 
