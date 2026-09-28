@@ -109,16 +109,6 @@ An attendance management application designed to simplify digital attendance tra
 
 ---
 
-### 🤖 Taskflow AI
-
-A modern task management project focused on productivity and application workflows.
-
-**Technologies:** JavaScript • Web Development
-
-🔗 [View Repository](https://github.com/Dineshkumar9228/Taskflow-ai)
-
----
-
 ### 🧪 Automation Testing Project
 
 A project focused on software testing and automation concepts.
