@@ -65,10 +65,6 @@ I enjoy transforming ideas into functional applications and working across both 
   <img src="https://skillicons.dev/icons?i=mongodb,mysql" alt="MongoDB MySQL"/>
 </p>
 
-<p align="center">
-  <strong>SQL</strong> • <strong>MySQL</strong> • <strong>MongoDB</strong>
-</p>
-
 ### 🔧 Tools & Platforms
 
 <p>
