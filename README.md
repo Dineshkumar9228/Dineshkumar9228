@@ -169,6 +169,8 @@ Tools
 - SQL & MySQL
 - Full Stack Web Development
 - Modern Software Development Practices
+- Azure, AWS
+- AI Fundamentals
 
 ---
 
