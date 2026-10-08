@@ -75,21 +75,23 @@ I enjoy transforming ideas into functional applications and working across both 
 
 ## 🚀 Featured Projects
 
-### 🔊 Text-to-Voice
+### 🛡️ D-Blockerz — Privacy-Focused Ad & Tracker Blocker
 
-A simple and responsive text-to-speech web application built using JavaScript.
+A privacy-focused browser extension designed to block unwanted advertisements and trackers while improving the browsing experience.
 
-**Technologies:** JavaScript • HTML • CSS
+**Technologies:** React • TypeScript • Vite • Tailwind CSS • Manifest V3
 
-🔗 [View Repository](https://github.com/Dineshkumar9228/Text-to-Voice)
+**Focus:** Privacy • Content Blocking • Browser Extension Development • Modular Architecture
+
+🔗 [View Repository](https://github.com/Dineshkumar9228/D-Blockerz)
 
 ---
 
-### 🌐 3D Portfolio
+### 🌐 3D Developer Portfolio
 
-A modern 3D portfolio website built with React and Vite, featuring an interactive user experience.
+A modern interactive 3D portfolio website built to showcase projects, technical skills, and developer experience.
 
-**Technologies:** React.js • TypeScript • Vite
+**Technologies:** React.js • TypeScript • Vite • Three.js • Tailwind CSS • Framer Motion
 
 🔗 [View Repository](https://github.com/Dineshkumar9228/reactjs18-3d-portfolio-)
 
@@ -97,11 +99,21 @@ A modern 3D portfolio website built with React and Vite, featuring an interactiv
 
 ### 📋 E-Attendance System
 
-An attendance management application designed to simplify digital attendance tracking.
+An attendance management application designed to simplify digital attendance tracking for students and teachers.
 
-**Technologies:** TypeScript • React.js
+**Technologies:** React • TypeScript • MongoDB
 
 🔗 [View Repository](https://github.com/Dineshkumar9228/e-attendance-system)
+
+---
+
+### 🔊 Text-to-Voice
+
+A simple and responsive text-to-speech web application that converts written text into speech using browser-based JavaScript functionality.
+
+**Technologies:** JavaScript • HTML5 • CSS3 • Web Speech API
+
+🔗 [View Repository](https://github.com/Dineshkumar9228/Text-to-Voice)
 
 ---
 
@@ -109,7 +121,7 @@ An attendance management application designed to simplify digital attendance tra
 
 A project focused on software testing and automation concepts.
 
-**Technologies:** Automation Testing
+**Technologies:** Automation Testing • Testing Workflows • Software Quality
 
 🔗 [View Repository](https://github.com/Dineshkumar9228/automation-testing-project)
 
@@ -117,7 +129,7 @@ A project focused on software testing and automation concepts.
 
 ### 📚 LearnGit
 
-A project created to explore and practice Git and GitHub concepts.
+A project created to explore and practice Git and GitHub concepts, version control, and repository workflows.
 
 **Technologies:** Git • GitHub
 
