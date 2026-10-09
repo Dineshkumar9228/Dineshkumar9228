@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Dinesh Kumar
 
-### 💻 Full Stack Developer | React.js Developer | Python Developer
+### 💻 Full Stack Developer | React.js Developer | Python Developer | Front-End Developer
 
 <p>
   <a href="https://github.com/Dineshkumar9228">
